@@ -1,9 +1,6 @@
-# **Hi, I'm Hezbr Al-humaidi** 👋
+# Hi, I'm Hezbr Al-humaidi 👋
 
 I'm a passionate mobile application developer with expertise in building Android and iOS apps using Flutter. I have solid experience in creating seamless, high-performance applications. Additionally, I specialize in developing APIs with Laravel.
-
-## 🧑‍💻 About Me
-I'm [Your Name], a programmer/developer specializing in mobile app development and API creation. With a strong background in Flutter for both Android and iOS, I enjoy crafting user-friendly and efficient applications. My experience with Laravel allows me to build powerful and scalable APIs to support a wide range of applications.
 
 ## 🧑‍💻 About Me
 - **Name:** [Your Name]
@@ -11,19 +8,17 @@ I'm [Your Name], a programmer/developer specializing in mobile app development a
   - Bachelor's degree in Computer Science and Information Technology
   - Ibb University, Yemen, 2024
   - Grade: Excellent
-  - Cumulative GPA: 93.65
+  - Cumulative GPA: 93.65%
 - **Specializations:**
   - Mobile app development for Android and iOS using Flutter
   - API development with Laravel
 - **Skills:**
-  - **Programming Languages:** Flutter, Dart, Laravel, PHP, HTML, CSS, JavaScript
-  - **Frameworks and Technologies:** Flutter, Laravel
-  - **Tools:** Git, Docker, VS Code
-  - **Other Languages:** Python, C#, C++, SQL
+ 
 ## 🛠️ Skills
-- **Programming Languages:** Dart, PHP, JavaScript
+- **Programming Languages:** Flutter, Dart, Laravel, PHP, HTML, CSS, JavaScript
 - **Frameworks and Technologies:** Flutter, Laravel
 - **Tools:** Git, Docker, VS Code
+- **Other Languages:** Python, C#, C++, SQL
 
 ## 📂 Projects
 ### [Project Name 1]
