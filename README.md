@@ -1,7 +1,7 @@
 # Hi, I'm Hezbr Al-humaidi 👋
 
 I'm a passionate mobile application developer with expertise in building Android and iOS apps using Flutter. I have solid experience in creating seamless, high-performance applications. Additionally, I specialize in developing APIs with Laravel.
-$${\color{red}Red}$$
+
 ## 🧑‍💻 About Me
 - **Name:** Hezbr Makeen Ahmed Ali Al-humaidi
 - **Education:**
@@ -20,7 +20,7 @@ $${\color{red}Red}$$
 - **Other Languages:** Python, C#, C++, SQL
 
 ## 📂 Projects
-### 1. $${\color{lightblue}Ashghal \space App}$$
+**$${\color{blue} ### 1. Ashghal \space App}$$ **
 ### 1. [Ashghal App]()
 - **Description:** An application that enables users to display their skills and work and discover various groups of job opportunities, where employee seekers can see the people suitable for the job and communicate with them through the application.
 - **Technologies:** Flutter, Firebase, Laravel, RESTful API
