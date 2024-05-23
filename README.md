@@ -1,13 +1,18 @@
 # Hi, I'm Hezbr Al-humaidi 👋
 
 I'm a passionate mobile application developer with expertise in building Android and iOS apps using Flutter. I have solid experience in creating seamless, high-performance applications. Additionally, I specialize in developing APIs with Laravel.
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-````
+```json
+   // #ff1122
+```
+```html
+   // f03c15
+```
+```js
+   // code for coloring
+```
+```css
+   // code for coloring
+```
 ## 🧑‍💻 About Me
 - **Name:** Hezbr Makeen Ahmed Ali Al-humaidi
 - **Education:**
