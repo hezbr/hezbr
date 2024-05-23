@@ -49,6 +49,17 @@ I'm a passionate mobile application developer with expertise in building Android
 - **Link:** [Emergency Helper Website](https://emergency-helper.web.app)
 
 
+## 📜 Certificates
+- **English Language Certificate**  
+  LPM Institute, Ibb, Yemen
+- **Google IT Support Professional Certificate**  
+  Google Career Certificates, Coursera.org
+- **Diploma in Accounting Certificate**  
+  Ibb University, Ibb, Yemen
+- **Microsoft Office Certificate**  
+  LPM Institute, Ibb, Yemen
+
+  
 ## 📫 Contact
 - **Email:** [your_email@example.com](mailto:your_email@example.com)
 <!--- **LinkedIn:** [Your LinkedIn Profile Link]
