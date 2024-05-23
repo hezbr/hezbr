@@ -46,7 +46,7 @@ I'm a passionate mobile application developer with expertise in building Android
 - **Description:** A simple website that displays various government services and locations in Saudi Arabia, as well as official applications and websites for the services offered. It also lists various government contact numbers available to assist users during emergencies.
 - **Technologies:** HTML, CSS, JavaScript
 - **Status:** Completed
-- **Link:** [Emergency Helper Website](#)
+- **Link:** [Emergency Helper Website](https://emergency-helper.web.app)
 - 
 
 ## 📊 GitHub Stats
