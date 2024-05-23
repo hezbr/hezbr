@@ -3,7 +3,7 @@
 I'm a passionate mobile application developer with expertise in building Android and iOS apps using Flutter. I have solid experience in creating seamless, high-performance applications. Additionally, I specialize in developing APIs with Laravel.
 
 ## 🧑‍💻 About Me
-- **Name:** [Hezbr Makeen Ahmed Ali Al-humaidi](#)
+- **Name: [Hezbr Makeen Ahmed Ali Al-humaidi](#)**
 - **Education:**
   - Bachelor's degree in Computer Science and Information Technology
   - Ibb University, Yemen, 2023
