@@ -20,15 +20,27 @@ I'm a passionate mobile application developer with expertise in building Android
 - **Other Languages:** Python, C#, C++, SQL
 
 ## 📂 Projects
-### [Project Name 1]
-A brief description of the project, what it does, and the problem it solves. You can also mention the technologies you used in this project.
+### 1. Ashghal App
+- **Description:** A mobile application that enables users to discover a variety of job opportunities. Users can showcase their skills and work, post job searches, or search for employees. Employers can view suitable candidates and contact them through the app.
+- **Technologies:** Flutter, Firebase, Laravel, RESTful API
+- **Status:** Completed
 
-[Link to Project](Project Link)
+### 2. Universities Platform API
+- **Description:** An API for a university platform and application that allows students to create accounts, register, and connect with various universities worldwide, helping them choose and apply to institutions that match their goals and interests.
+- **Technologies:** Laravel, RESTful API
+- **Status:** In Progress
 
-### [Project Name 2]
-A brief description of the project, what it does, and the problem it solves. You can also mention the technologies you used in this project.
+### 3. Cards Record App
+- **Description:** An efficient application for users (point of sales) to record cards taken from traders of different categories and distributors. It also allows them to record installments paid to distributors. It serves as a ledger for those dealing with cards, organizing their records and showing their payments and outstanding balances.
+- **Technologies:** Flutter, SQLite
+- **Status:** Completed
+- **Link:** [Cards Record App](https://github.com/hezbr/Cards_Record_App.git)
 
-[Link to Project](Project Link)
+### 4. Emergency Helper
+- **Description:** A simple website that displays various government services and locations in Saudi Arabia, as well as official applications and websites for the services offered. It also lists various government contact numbers available to assist users during emergencies.
+- **Technologies:** HTML, CSS, JavaScript
+- **Status:** Completed
+- **Link:** [Emergency Helper](#)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
