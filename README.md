@@ -50,14 +50,10 @@ I'm a passionate mobile application developer with expertise in building Android
 
 
 ## 📜 Certificates
-- **English Language Certificate**  
-  LPM Institute, Ibb, Yemen
-- **Google IT Support Professional Certificate**  
-  Google Career Certificates, Coursera.org
-- **Diploma in Accounting Certificate**  
-  Ibb University, Ibb, Yemen
-- **Microsoft Office Certificate**  
-  LPM Institute, Ibb, Yemen
+- **English Language Certificate**  from LPM Institute, Ibb, Yemen
+- **Google IT Support Professional Certificate**  by Google Career Certificates, Coursera.org
+- **Diploma in Accounting Certificate**  from Ibb University, Ibb, Yemen
+- **Microsoft Office Certificate**  from LPM Institute, Ibb, Yemen
 
   
 ## 📫 Contact
