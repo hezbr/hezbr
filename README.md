@@ -20,10 +20,7 @@ I'm a passionate mobile application developer with expertise in building Android
 - **Other Languages:** Python, C#, C++, SQL
 
 ## 📂 Projects
-### $\color{green}{test}$
-### $\color{blue}{1.Ashghal}$
-### $\color{blue}{1. Ashghal App}$
-### 1. [Ashghal App]()
+### 1. [Ashghal App](#)
 - **Description:** An application that enables users to display their skills and work and discover various groups of job opportunities, where employee seekers can see the people suitable for the job and communicate with them through the application.
 - **Technologies:** Flutter, Firebase, Laravel, RESTful API
 - **Status:** Completed
@@ -50,10 +47,7 @@ I'm a passionate mobile application developer with expertise in building Android
 - **Technologies:** HTML, CSS, JavaScript
 - **Status:** Completed
 - **Link:** [Emergency Helper Website](https://emergency-helper.web.app)
-- 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
 
 ## 📫 Contact
 - **Email:** [your_email@example.com](mailto:your_email@example.com)
