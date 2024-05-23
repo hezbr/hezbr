@@ -40,6 +40,7 @@ I'm a passionate mobile application developer with expertise in building Android
 - **Description:** An efficient application that allows users (point of sales) to record cards taken from traders of different categories and distributors. It also allows them to record installments paid to distributors. It serves as a ledger for those dealing with cards, organizing their records and showing their payments and outstanding balances.
 - **Technologies:** Flutter, SQLite
 - **Status:** Completed
+- 
 - **Link:** [Cards Record App](https://github.com/hezbr/Cards_Record_App.git)
 
 ### <span style="color: blue;">5. Emergency Helper</span>
@@ -53,7 +54,7 @@ I'm a passionate mobile application developer with expertise in building Android
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical)
 
 ## 📫 Contact
-- **Email:** [eng.hezbr@gmail.com]
+- **Email:** <a href="mailto:your_email@example.com">your_email@example.com</a>
 <!--- **LinkedIn:** [Your LinkedIn Profile Link]
 - **Twitter:** [Your Twitter Profile Link]
 - **Personal Website:** [Your Personal Website Link if any]
