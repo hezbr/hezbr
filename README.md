@@ -30,7 +30,7 @@ I'm a passionate mobile application developer with expertise in building Android
 - **Technologies:** Laravel, RESTful API
 - **Status:** In Progress
 
-### 3. [easy_sms_reciever](#)
+### 3. [easy_sms_reciever Package](#)
 - **Description:** A Flutter plugin written in Java and Dart that allows developers to easily receive SMS messages.
 - **Technologies:** Flutter, Dart, Java
 - **Status:** Completed
@@ -57,9 +57,9 @@ I'm a passionate mobile application developer with expertise in building Android
 
   
 ## 📫 Contact
-- **Email:** [your_email@example.com](mailto:your_email@example.com)
-<!--- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Twitter:** [Your Twitter Profile Link]
+- **Email:** [eng.hezbr@gmail.com](mailto:eng.hezbr@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile Link]
+<--- **Twitter:** [Your Twitter Profile Link]
 - **Personal Website:** [Your Personal Website Link if any]
 -->
 Thanks for visiting my GitHub profile! If you are interested in any of my projects or want to collaborate, feel free to reach out.
