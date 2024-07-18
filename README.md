@@ -58,8 +58,8 @@ I'm a passionate mobile application developer with expertise in building Android
   
 ## 📫 Contact
 - **Email:** [eng.hezbr@gmail.com](mailto:eng.hezbr@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile Link]
-<--- **Twitter:** [Your Twitter Profile Link]
+- **LinkedIn:** [www.linkedin.com/in/hezbr-al-humaidi-7585452a8]
+<!-- - **Twitter:** [Your Twitter Profile Link]
 - **Personal Website:** [Your Personal Website Link if any]
 -->
 Thanks for visiting my GitHub profile! If you are interested in any of my projects or want to collaborate, feel free to reach out.
