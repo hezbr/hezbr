@@ -58,7 +58,7 @@ I'm a passionate mobile application developer with expertise in building Android
   
 ## 📫 Contact
 - **Email:** [eng.hezbr@gmail.com](mailto:eng.hezbr@gmail.com)
-- **LinkedIn:** www.linkedin.com/in/hezbr-al-humaidi-7585452a8
+- **LinkedIn:** [Hezbr Al-humaidi](https://www.linkedin.com/in/hezbr-al-humaidi-7585452a8/)
 <!-- - **Twitter:** [Your Twitter Profile Link]
 - **Personal Website:** [Your Personal Website Link if any]
 -->
