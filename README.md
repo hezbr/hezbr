@@ -14,8 +14,10 @@ I'm a passionate mobile application developer with expertise in building Android
   - API development with Laravel
  
 ## 🛠️ Skills
-- **Programming Languages:** Flutter, Dart, Laravel, PHP, HTML, CSS, JavaScript
-- **Frameworks and Technologies:** Flutter, Laravel
+- **Programming Languages:** Dart, PHP, JavaScript
+- **Web Technologies:** HTML, CSS
+- **Programming Languages:** Dart, PHP, HTML, CSS, JavaScript
+- **Frameworks:** Flutter, Laravel, Firebase
 - **Tools:** Git, Github, VS Code, Android Studio, Visual Studio, ...
 - **Other Languages:** Python, C#, C++, SQL
 
