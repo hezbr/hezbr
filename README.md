@@ -50,7 +50,7 @@ I'm a passionate mobile application developer with expertise in building Android
 - **Description:** TechStore is a straightforward e-commerce platform for displaying and selling electronics, such as mobile phones and computers. It offers a simple and user-friendly experience for browsing and purchasing tech products.
 - **Technologies:** HTML, CSS, JavaScript, PHP
 - **Status:** Completed
-- **Link:** [TechStore Website](http://ditest.free.nf/)
+- **Link:** [TechStore Website](http://techstore.free.nf/)
 
 ### 6. [Emergency Helper](#)
 - **Description:** A simple website that displays various government services and locations in Saudi Arabia, as well as official applications and websites for the services offered. It also lists various government contact numbers available to assist users during emergencies.
